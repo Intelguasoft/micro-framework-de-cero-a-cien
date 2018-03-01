@@ -20,6 +20,8 @@ aprendizaje por ti mismo si así lo quisieras.
 1. Profesionales que necesitan adquirir nuevas competencias
 1. Autodidactas interesados en el desarrollo web
 
+Para continuar con el curso dirijase a la siguiente dirección: [Documentación completa](https://github.com/Intelguasoft/micro-framework-de-cero-a-cien/wiki)
+
 Henry Leonardo Díaz Gutierrez
 
 [@intelguasoft](https://twitter.com/Intelguasoft)
